@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 800;
+    color: transparent;
+    background-position: center;
+}
+
+.html{
+    margin-top: 100px;
+    background-image: url(https://media.giphy.com/media/9JwVkc9A4efEUiu6Qh/giphy.gif);
+    -webkit-background-clip: text;
+}
+
+.css{
+    background-image: url(https://media.giphy.com/media/XG0ql3NqpQ7PlqTshx/giphy.gif);
+    -webkit-background-clip: text;
+}
+
+.javascript{
+
+    background-image: url(https://media.giphy.com/media/LnEeDF1IzKdZlHruw9/giphy.gif);
+    -webkit-background-clip: text;
+
+}
